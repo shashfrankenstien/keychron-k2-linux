@@ -10,4 +10,5 @@ Also maps Level3 key to Right Alt
 $ git clone https://github.com/shashfrankenstien/keychron-k2-linux.git
 $ cd keychron-k2-linux
 $ sudo ./install.sh
+$ sudo reboot
 ```
